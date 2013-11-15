@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Converter</string>
+    <string name="action_about">About</string>
+    <string name="author">Gerald Hurdle (hurdleg)</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="ok_button">OK</string>
+    <string name="units">degrees</string>
+
+</resources>
